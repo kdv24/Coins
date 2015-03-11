@@ -1,0 +1,29 @@
+Users will enter an amount of cents and be shown the smallest number of quarters, dimes, nickels, and pennies needed to make that change.
+
+Test 1-
+Input: 1 cent
+Output: 1 pennies
+
+Test 2-
+Input: 5 cents
+Output: 1 nickel
+
+Test 3-
+Input: 10 cents
+Output: 1 dime
+
+Test 4-
+Input: 25 cents
+Output: 1 quarter
+
+Test 5-
+Input: 6 cents
+Output: 1 nickel, 1 pennies
+
+Test 6-
+Input: 16 cents
+Output: 1 dime, 1 nickel, 1 pennies
+
+Test 7-
+Input 46 cents
+Output: 1 quarter, 1 dime, 1 nickel, 1 pennies
